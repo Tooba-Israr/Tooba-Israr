@@ -1,53 +1,80 @@
-<h1 align="center">Tooba Israr</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=E58BA6&center=true&vCenter=true&width=560&lines=Student+at+NED+University+of+Engineering+%26+Technology;Department+of+Computer+Science+%26+IT;Learning+C%2C+one+tidy+program+at+a+time;Curious+about+how+computers+really+think" alt="Typing animation"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFE98A,FFC1D3,F7A8BC&height=220&section=header&text=Tooba%20Israr&fontSize=52&fontColor=4A3340&fontAlignY=38&desc=CSIT%20Student%20%C2%B7%20NED%20University%20%C2%B7%20C%20Learner&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Tooba Israr"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NED_University-CSIT-FFD1DC?style=for-the-badge&labelColor=FFF1A8&color=FFD1DC" alt="NED University CSIT"/>
-  <img src="https://img.shields.io/badge/Learning-C_Language-FFF1A8?style=for-the-badge&labelColor=FFD1DC&color=FFF1A8" alt="Learning C"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=E58BA6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tooba+%F0%9F%8C%B8;Student+at+NED+University+of+Engineering+%26+Technology;Department+of+Computer+Science+%26+IT;Learning+C%2C+one+tidy+program+at+a+time+%F0%9F%92%BB;Turning+coffee+into+code+%E2%98%95" alt="Typing animation"/>
 
----
+<br>
 
-## About
+<img src="https://img.shields.io/badge/NED_University-CSIT-FFD1DC?style=for-the-badge&labelColor=FFF1A8&color=FFD1DC" alt="NED"/>
+<img src="https://img.shields.io/badge/Learning-C_Language-FFF1A8?style=for-the-badge&labelColor=FFD1DC&color=FFF1A8" alt="C"/>
+<img src="https://img.shields.io/badge/Status-Always_Curious-E58BA6?style=for-the-badge&labelColor=FFF1A8" alt="Curious"/>
 
-I'm a student at **NED University of Engineering & Technology**, in the **Department of Computer Science & Information Technology (CSIT)**. This repository is my little corner for notes, exercises, and experiments as I learn how computers really think.
+<br><br>
 
-| | |
-|---|---|
-| **University** | NED University of Engineering & Technology |
-| **Department** | CSIT |
-| **Currently learning** | The C programming language |
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=F7A8BC&style=flat-square" alt="Profile views"/>
 
----
+</div>
 
-## Where it all begins
+<br>
+
+## 🌸 About Me
+
+- 🎓 Student at **NED University of Engineering & Technology**
+- 💻 Department of **Computer Science & Information Technology (CSIT)**
+- 📚 Currently learning the **C programming language**
+- 🌱 Building my skills one small, tidy program at a time
+- ✨ Fun fact: I believe every great programmer started with `Hello, world!`
+
+<br>
+
+## 💛 Where It All Begins
 
 ```c
 /* every great program starts somewhere */
 #include <stdio.h>
 
 int main(void) {
-    printf("Hello, world!\n");
+    printf("Hello, world! I'm Tooba 🌸\n");
     return 0;
 }
 ```
 
-## Currently exploring
+<br>
 
-![C](https://img.shields.io/badge/C_Fundamentals-FFD1DC?style=for-the-badge&labelColor=FFF1A8&color=FFD1DC)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-FFF1A8?style=for-the-badge&labelColor=FFD1DC&color=FFF1A8)
-![Data Structures](https://img.shields.io/badge/Data_Structures-FFD1DC?style=for-the-badge&labelColor=FFF1A8&color=FFD1DC)
-![Git](https://img.shields.io/badge/Git_%26_GitHub-FFF1A8?style=for-the-badge&labelColor=FFD1DC&color=FFF1A8)
+## 🛠️ Tools & Skills
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,git,github,vscode,linux&theme=light" alt="Skills"/>
+</p>
 
-## Say hello
+<p align="center">
+  <img src="https://img.shields.io/badge/C_Fundamentals-FFD1DC?style=for-the-badge&labelColor=FFF1A8&color=FFD1DC" alt="C"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-FFF1A8?style=for-the-badge&labelColor=FFD1DC&color=FFF1A8" alt="Problem Solving"/>
+  <img src="https://img.shields.io/badge/Data_Structures-FFD1DC?style=for-the-badge&labelColor=FFF1A8&color=FFD1DC" alt="DSA"/>
+</p>
 
-Always happy to connect with fellow learners and curious minds.
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-F7A8BC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FFF1A8)](https://www.linkedin.com/in/tooba-israr-769079428?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+## 📊 My GitHub Stats
 
-<p align="center"><sub>Crafted with care by Tooba Israr</sub></p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=E58BA6&icon_color=F5C84C&text_color=8A6F7B" alt="Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=E58BA6&text_color=8A6F7B" alt="Top languages"/>
+</p>
+
+<br>
+
+## 📫 Let's Connect
+
+<p align="center">
+  Always happy to connect with fellow learners and curious minds 💗
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tooba-israr-769079428?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-F7A8BC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FFF1A8" alt="LinkedIn"/>
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=F7A8BC,FFC1D3,FFE98A&height=120&section=footer&animation=twinkling" width="100%" alt="footer"/>
