@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFE98A,FFC1D3,F7A8BC&height=220&section=header&text=Tooba%20Israr&fontSize=52&fontColor=4A3340&fontAlignY=38&desc=CSIT%20Student%20%C2%B7%20NED%20University%20%C2%B7%20C%20Learner&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Tooba Israr"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFD6E2,FFE3EB,FFEFF3&height=220&section=header&text=Tooba%20Israr&fontSize=54&fontColor=FFEF8A&stroke=E58BA6&strokeWidth=2&fontAlignY=38&desc=CSIT%20Student%20%C2%B7%20NED%20University%20%C2%B7%20C%20Learner&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Tooba Israr"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=E58BA6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tooba+%F0%9F%8C%B8;Student+at+NED+University+of+Engineering+%26+Technology;Department+of+Computer+Science+%26+IT;Learning+C%2C+one+tidy+program+at+a+time+%F0%9F%92%BB;Turning+coffee+into+code+%E2%98%95" alt="Typing animation"/>
 
@@ -77,4 +77,4 @@ int main(void) {
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=F7A8BC,FFC1D3,FFE98A&height=120&section=footer&animation=twinkling" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFFBE0,FFF1F5,FFE6EE&height=120&section=footer&animation=twinkling" width="100%" alt="footer"/>
