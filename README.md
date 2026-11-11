@@ -1,11 +1,13 @@
 <h1 align="center">Tooba Israr</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1200&color=E58BA6&center=true&vCenter=true&width=560&lines=Student+at+NED+University+of+Engineering+%26+Technology;Department+of+Computer+Science+%26+IT;Learning+C%2C+one+tidy+program+at+a+time;Curious+about+how+computers+really+think" alt="Typing animation"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/NED_University-CSIT-FFD1DC?style=for-the-badge&labelColor=FFF1A8&color=FFD1DC" alt="NED University CSIT"/>
   <img src="https://img.shields.io/badge/Learning-C_Language-FFF1A8?style=for-the-badge&labelColor=FFD1DC&color=FFF1A8" alt="Learning C"/>
 </p>
-
-<p align="center"><i>A curious student learning to write C, one small, tidy program at a time.</i></p>
 
 ---
 
